@@ -1,0 +1,22 @@
+{
+    "name": "laralgato/request-object",
+    "description": "Simple way to convert your request data to an object.",
+    "type": "library",
+    "keywords": ["laravel", "laragato", "request-object", "request dto"],
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "saadsebai",
+            "email": "saadsebaii@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Laragato\\RequestObject\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2"
+    },
+}
